@@ -1,4 +1,4 @@
-# Appian DevOps Quick Start - Overview
+# Appian DevOps Quick Start -> Overview
 
 This repository is intended to serve as a model for Appian developers looking to construct a CI/CD pipeline in order to version and test their applications. It contains all configuration files required for setting up a fully functioning pipeline using the out-of-the-box [Automated Deployment Manager](https://community.appian.com/w/the-appian-playbook/198/deployment-automation) and [FitNesse For Appian](https://community.appian.com/w/the-appian-playbook/97/automated-testing-with-fitnesse-for-appian), as well as an example pipeline, Jenkinsfile. While the Jenkinsfile is intended to be run in the CI/CD tool, Jenkins, the same structure can be used to setup a pipeline in other CI/CD tools, such as GitLab.
 
